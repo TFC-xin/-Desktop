@@ -1,5 +1,5 @@
 [发布说明.md](https://github.com/user-attachments/files/34694777/default.md)
-# 有心Desktop 发布说明
+# 有心Desktop 发布说明（请从发布页下载软件）
 
 一款 Windows 桌面美化小工具：把喜欢的图片铺成壁纸，把考试倒计时、水印、一言打字机直接摆到桌面上。开机静默启动，不打扰、不遮挡。
 
